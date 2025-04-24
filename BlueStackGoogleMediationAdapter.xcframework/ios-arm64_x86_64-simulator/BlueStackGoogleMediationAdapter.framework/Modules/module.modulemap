@@ -1,0 +1,11 @@
+framework module BlueStackGoogleMediationAdapter {
+  umbrella header "BlueStackGoogleMediationAdapter.h"
+  export *
+
+  module * { export * }
+}
+
+module BlueStackGoogleMediationAdapter.Swift {
+  header "BlueStackGoogleMediationAdapter-Swift.h"
+  requires objc
+}

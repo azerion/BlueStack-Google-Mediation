@@ -1,0 +1,6 @@
+//
+//  BlueStackGoogleMediationAdapter.swift
+//
+//
+
+import Foundation
