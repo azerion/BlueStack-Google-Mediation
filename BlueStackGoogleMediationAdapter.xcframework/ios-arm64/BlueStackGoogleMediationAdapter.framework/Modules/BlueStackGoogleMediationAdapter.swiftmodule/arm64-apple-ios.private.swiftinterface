@@ -11,6 +11,10 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+@objc(BlueStackCustomEventMediationExtras) public class BlueStackCustomEventMediationExtras : ObjectiveC.NSObject, GoogleMobileAds.GADAdNetworkExtras {
+  @objc public init(keywords: Swift.String, customTargetingBlueStack: [Swift.String : Swift.String])
+  @objc deinit
+}
 @_inheritsConvenienceInitializers @objc(BlueStackCustomEvent) public class BlueStackCustomEvent : ObjectiveC.NSObject, GoogleMobileAds.GADMediationAdapter {
   @objc public static var viewController: UIKit.UIViewController?
   @objc required override dynamic public init()
@@ -21,9 +25,5 @@ import _SwiftConcurrencyShims
   @objc public func loadInterstitial(for adConfiguration: GoogleMobileAds.GADMediationInterstitialAdConfiguration, completionHandler: @escaping GoogleMobileAds.GADMediationInterstitialLoadCompletionHandler)
   @objc public func loadNativeAd(for adConfiguration: GoogleMobileAds.GADMediationNativeAdConfiguration, completionHandler: @escaping GoogleMobileAds.GADMediationNativeLoadCompletionHandler)
   @objc public func loadRewardedAd(for adConfiguration: GoogleMobileAds.GADMediationRewardedAdConfiguration, completionHandler: @escaping GoogleMobileAds.GADMediationRewardedLoadCompletionHandler)
-  @objc deinit
-}
-@objc(BlueStackCustomEventMediationExtras) public class BlueStackCustomEventMediationExtras : ObjectiveC.NSObject, GoogleMobileAds.GADAdNetworkExtras {
-  @objc public init(keywords: Swift.String, customTargetingBlueStack: [Swift.String : Swift.String])
   @objc deinit
 }
