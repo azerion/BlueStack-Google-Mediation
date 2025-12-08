@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.2.1 effective-5.10 (swiftlang-6.2.1.4.8 clang-1700.4.4.1)
+// swift-compiler-version: Apple Swift version 6.1.2 effective-5.10 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)
 // swift-module-flags: -target arm64-apple-ios13 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name BlueStackGoogleMediationAdapter
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.1
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1.2
 @_exported import BlueStackGoogleMediationAdapter
 import BlueStackSDK
 import Foundation
@@ -16,9 +16,7 @@ import _SwiftConcurrencyShims
   @objc required override dynamic public init()
   @objc public static func adapterVersion() -> GoogleMobileAds.VersionNumber
   @objc public static func adSDKVersion() -> GoogleMobileAds.VersionNumber
-  #if compiler(>=5.3) && $NonescapableTypes
   @objc public static func networkExtrasClass() -> (any GoogleMobileAds.AdNetworkExtras.Type)?
-  #endif
   @objc public func loadBanner(for adConfiguration: GoogleMobileAds.MediationBannerAdConfiguration, completionHandler: @escaping GoogleMobileAds.GADMediationBannerLoadCompletionHandler)
   @objc public func loadInterstitial(for adConfiguration: GoogleMobileAds.MediationInterstitialAdConfiguration, completionHandler: @escaping GoogleMobileAds.GADMediationInterstitialLoadCompletionHandler)
   @objc public func loadNativeAd(for adConfiguration: GoogleMobileAds.MediationNativeAdConfiguration, completionHandler: @escaping GoogleMobileAds.GADMediationNativeLoadCompletionHandler)
