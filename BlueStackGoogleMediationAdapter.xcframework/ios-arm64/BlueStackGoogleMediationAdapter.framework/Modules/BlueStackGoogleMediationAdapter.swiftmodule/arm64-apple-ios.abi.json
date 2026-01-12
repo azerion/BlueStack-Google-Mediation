@@ -16,6 +16,40 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BlueStackGoogleMediationAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BlueStackGoogleMediationAdapter",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BlueStackGoogleMediationAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BlueStackGoogleMediationAdapter",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "GoogleMobileAds",
         "printedName": "GoogleMobileAds",
         "declKind": "Import",
@@ -1028,23 +1062,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BlueStackGoogleMediationAdapter"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BlueStackGoogleMediationAdapter",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "GoogleMobileAds",
         "printedName": "GoogleMobileAds",
         "declKind": "Import",
@@ -1072,15 +1089,25 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
+        "name": "BlueStackUtilities",
+        "printedName": "BlueStackUtilities",
         "declKind": "Import",
-        "moduleName": "BlueStackGoogleMediationAdapter"
+        "moduleName": "BlueStackGoogleMediationAdapter",
+        "declAttributes": [
+          "AccessControl"
+        ]
       }
     ],
     "json_format_version": 8
   },
   "ConstValues": [
+    {
+      "filePath": "\/Users\/shadman\/Projects\/azerion\/for-ios\/BlueStackGoogleMediationAdapter\/BlueStackGoogleMediationAdapter\/NativeAssetDownloader.swift",
+      "kind": "FloatLiteral",
+      "offset": 340,
+      "length": 3,
+      "value": "5.0"
+    },
     {
       "filePath": "\/Users\/shadman\/Projects\/azerion\/for-ios\/BlueStackGoogleMediationAdapter\/BlueStackGoogleMediationAdapter\/BlueStackCustomEventNativeAdRenderer.swift",
       "kind": "BooleanLiteral",
@@ -1121,14 +1148,21 @@
       "kind": "StringLiteral",
       "offset": 502,
       "length": 9,
-      "value": "\"5.3.7.0\""
+      "value": "\"5.4.0.0\""
     },
     {
-      "filePath": "\/Users\/shadman\/Projects\/azerion\/for-ios\/BlueStackGoogleMediationAdapter\/BlueStackGoogleMediationAdapter\/NativeAssetDownloader.swift",
-      "kind": "FloatLiteral",
-      "offset": 340,
-      "length": 3,
-      "value": "5.0"
+      "filePath": "\/Users\/shadman\/Projects\/azerion\/for-ios\/BlueStackGoogleMediationAdapter\/BlueStackGoogleMediationAdapter\/Logger+Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 258,
+      "length": 33,
+      "value": "\"BlueStackGoogleMediationAdapter\""
+    },
+    {
+      "filePath": "\/Users\/shadman\/Projects\/azerion\/for-ios\/BlueStackGoogleMediationAdapter\/BlueStackGoogleMediationAdapter\/Logger+Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 977,
+      "length": 7,
+      "value": "\"error\""
     }
   ]
 }

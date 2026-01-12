@@ -13,7 +13,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/azerion/BlueStackSDK.git", from: "5.3.7"),
+        .package(url: "https://github.com/azerion/BlueStackSDK.git", from: "5.4.0"),
         .package(url: "https://github.com/googleads/swift-package-manager-google-mobile-ads", .upToNextMajor(from: "12.0.0"))
     ],
     targets: [

@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 s.authors = 'Azerion'
 s.name = 'BlueStackGoogleMediationAdapter'
-s.version = '5.3.7'
+s.version = '5.4.0'
 s.static_framework = true
 s.license = 'MIT'
 s.platform = :ios, '13.0'
@@ -16,7 +16,7 @@ s.documentation_url = 'https://developers.bluestack.app/ios/mediation/secondary/
 s.vendored_frameworks = "BlueStackGoogleMediationAdapter.xcframework"
 s.ios.deployment_target = '13.0'
 
-s.dependency 'BlueStack-SDK', '>=5.3.7'
+s.dependency 'BlueStack-SDK', '>=5.4.0'
 s.dependency 'Google-Mobile-Ads-SDK', '>= 12.0.0', '<= 12.14.0'
 
 s.pod_target_xcconfig =
