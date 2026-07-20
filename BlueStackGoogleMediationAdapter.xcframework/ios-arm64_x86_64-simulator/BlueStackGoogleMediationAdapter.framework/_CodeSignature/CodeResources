@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		5Rjeld8n+EhpKWaj5k6HwmlifIA=
+		0gLfOP2zWZOslcAK9UTSRVNITWg=
 		</data>
 		<key>Modules/BlueStackGoogleMediationAdapter.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		YzSaXR7boqHMxg6iNRmw48+QezI=
+		rTLCuSP+ymHcC1y3qVM4poV1ksg=
 		</data>
 		<key>Modules/BlueStackGoogleMediationAdapter.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/BlueStackGoogleMediationAdapter.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		FZsM8pgKWAld1lc2bZJXSFQXsHY=
+		ynKZkIJLmrwBwE5yPDWSCrTW0HI=
 		</data>
 		<key>Modules/BlueStackGoogleMediationAdapter.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		YzSaXR7boqHMxg6iNRmw48+QezI=
+		rTLCuSP+ymHcC1y3qVM4poV1ksg=
 		</data>
 		<key>Modules/BlueStackGoogleMediationAdapter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/BlueStackGoogleMediationAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		13DMMalODh/798XuK53Pgvc2x1g=
+		bFmWAZPidDZtWBwO1vHcjeDUKvc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -89,11 +89,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YzSaXR7boqHMxg6iNRmw48+QezI=
+			rTLCuSP+ymHcC1y3qVM4poV1ksg=
 			</data>
 			<key>hash2</key>
 			<data>
-			fd06hmWk+K2UTg7Z/p6+zUhyQbdKWFw8eJVKKXu235E=
+			KJddnzc+ZVkrvYbtLI437JD4zGc/MzA9fsdL7Fop/S4=
 			</data>
 		</dict>
 		<key>Modules/BlueStackGoogleMediationAdapter.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -133,22 +133,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FZsM8pgKWAld1lc2bZJXSFQXsHY=
+			ynKZkIJLmrwBwE5yPDWSCrTW0HI=
 			</data>
 			<key>hash2</key>
 			<data>
-			JrVfFolGzuoua5NqoufEP++gfmJIYdG+iZCMDZUsIyo=
+			H/4sD4gXOCPpR2G8HlCGoWR+kBBJocnWUk3nt9C4JLs=
 			</data>
 		</dict>
 		<key>Modules/BlueStackGoogleMediationAdapter.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YzSaXR7boqHMxg6iNRmw48+QezI=
+			rTLCuSP+ymHcC1y3qVM4poV1ksg=
 			</data>
 			<key>hash2</key>
 			<data>
-			fd06hmWk+K2UTg7Z/p6+zUhyQbdKWFw8eJVKKXu235E=
+			KJddnzc+ZVkrvYbtLI437JD4zGc/MzA9fsdL7Fop/S4=
 			</data>
 		</dict>
 		<key>Modules/BlueStackGoogleMediationAdapter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -188,11 +188,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			13DMMalODh/798XuK53Pgvc2x1g=
+			bFmWAZPidDZtWBwO1vHcjeDUKvc=
 			</data>
 			<key>hash2</key>
 			<data>
-			TdwPXuVYDcpqKvV1hQdmGV643nlLrZam0oie+NLYgiU=
+			rnKRPKgflmVa5/DGIFbnlT+L2LC/7BCj2YQIW1wQmMU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
