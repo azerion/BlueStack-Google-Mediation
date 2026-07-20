@@ -17,7 +17,7 @@ s.vendored_frameworks = "BlueStackGoogleMediationAdapter.xcframework"
 s.ios.deployment_target = '13.0'
 
 s.dependency 'BlueStack-SDK', '>=6.0.2'
-s.dependency 'Google-Mobile-Ads-SDK', '>= 13.0.0', '< 14.0.0'
+s.dependency 'Google-Mobile-Ads-SDK', '>= 12.0.0', '< 14.0.0'
 
 s.pod_target_xcconfig =
 {
