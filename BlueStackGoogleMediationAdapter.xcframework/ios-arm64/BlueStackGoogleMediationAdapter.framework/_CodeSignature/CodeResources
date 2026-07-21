@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		XfFS2pNYqc8k7GQqpC4sJ6GAUq4=
+		R0tPdSeOPxZhbTM11RFBmHXbpek=
 		</data>
 		<key>Modules/BlueStackGoogleMediationAdapter.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		8qp6Wu+hRhJoEWlhXzjqGxXE9zg=
+		rTLCuSP+ymHcC1y3qVM4poV1ksg=
 		</data>
 		<key>Modules/BlueStackGoogleMediationAdapter.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		6xH+aA6whdvVOb1Gs9vJwS8S1Uc=
+		NmkeHxbIfkdXBQgByCKu6YLVj9k=
 		</data>
 		<key>Modules/BlueStackGoogleMediationAdapter.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/BlueStackGoogleMediationAdapter.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		6xH+aA6whdvVOb1Gs9vJwS8S1Uc=
+		NmkeHxbIfkdXBQgByCKu6YLVj9k=
 		</data>
 		<key>Modules/BlueStackGoogleMediationAdapter.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		a2Tv8Jk7dfcIPdVx0XJIseFL2Dw=
+		WFAEcjQhopsPz581wEVw15X4QWI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -69,22 +69,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8qp6Wu+hRhJoEWlhXzjqGxXE9zg=
+			rTLCuSP+ymHcC1y3qVM4poV1ksg=
 			</data>
 			<key>hash2</key>
 			<data>
-			SjNQiRbZr4XcGoNRt3m2lJhFrdClVGOWJgYBgMEoL6U=
+			KJddnzc+ZVkrvYbtLI437JD4zGc/MzA9fsdL7Fop/S4=
 			</data>
 		</dict>
 		<key>Modules/BlueStackGoogleMediationAdapter.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6xH+aA6whdvVOb1Gs9vJwS8S1Uc=
+			NmkeHxbIfkdXBQgByCKu6YLVj9k=
 			</data>
 			<key>hash2</key>
 			<data>
-			4zwGg0qiDVu+PWEbyjdmAtXYSEIENtloewJ9rL1jK4Q=
+			Kv0dDbj4X+1gGFWXUUlIvIyg03iTAZIAciiCfXkWFQU=
 			</data>
 		</dict>
 		<key>Modules/BlueStackGoogleMediationAdapter.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -102,22 +102,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6xH+aA6whdvVOb1Gs9vJwS8S1Uc=
+			NmkeHxbIfkdXBQgByCKu6YLVj9k=
 			</data>
 			<key>hash2</key>
 			<data>
-			4zwGg0qiDVu+PWEbyjdmAtXYSEIENtloewJ9rL1jK4Q=
+			Kv0dDbj4X+1gGFWXUUlIvIyg03iTAZIAciiCfXkWFQU=
 			</data>
 		</dict>
 		<key>Modules/BlueStackGoogleMediationAdapter.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			a2Tv8Jk7dfcIPdVx0XJIseFL2Dw=
+			WFAEcjQhopsPz581wEVw15X4QWI=
 			</data>
 			<key>hash2</key>
 			<data>
-			0ZQhF5i/ZTYdXiSQ93TUDd6lnr/r4wUDyUt1NYcoyZw=
+			i+DWWJNj46VJfyKbQknDcYEVXuP3j0Is4UoA3QhnUDs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
